@@ -2,7 +2,7 @@
 
 ## Project Introduction
 
-In this project, I built Recurrent Neural Networks that can generate sequences based on input data - with a focus on two applications:  1) use real market data in order to predict future Apple stock prices using an RNN model, and 2) train an RNN model on Sir Arthur Conan Doyle's classic novel Sherlock Holmes andgenerate wacky sentences based on it.
+In this project, I built Recurrent Neural Networks that can generate sequences based on input data - with a focus on two applications:  1) use real market data in order to predict future Apple stock prices using an RNN model, and 2) train an RNN model on Sir Arthur Conan Doyle's classic novel Sherlock Holmes and generate wacky sentences based on it.
 
 More details are available in the Jupyter notebook. Below are the project instructions.
 
