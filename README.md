@@ -4,6 +4,8 @@
 
 In this project, I built Recurrent Neural Networks that can generate sequences based on input data - with a focus on two applications:  1) use real market data in order to predict future Apple stock prices using an RNN model, and 2) train an RNN model on Sir Arthur Conan Doyle's classic novel Sherlock Holmes andgenerate wacky sentences based on it.
 
+More details are available in the Jupyter notebook. Below are the project instructions.
+
 ### Amazon Web Services
 
 Instead of training your model on a local CPU (or GPU), you could use Amazon Web Services to launch an EC2 GPU instance.  Please refer to the Udacity instructions in your classroom for setting up a GPU instance for this project.  [link for AIND students](https://classroom.udacity.com/nanodegrees/nd889/parts/16cf5df5-73f0-4afa-93a9-de5974257236/modules/53b2a19e-4e29-4ae7-aaf2-33d195dbdeba/lessons/2df3b94c-4f09-476a-8397-e8841b147f84/project)
